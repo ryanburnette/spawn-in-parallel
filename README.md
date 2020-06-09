@@ -3,8 +3,8 @@
 [![repo](https://img.shields.io/badge/repository-Github-black.svg?style=flat-square)](https://github.com/ryanburnette/spawn-in-parallel) [![npm](https://img.shields.io/badge/package-NPM-green.svg?style=flat-square)](https://www.npmjs.com/package/@ryanburnette/spawn-in-parallel)
 
 Spawn your development tasks in parallel. When you kill your script, the
-spawned processes also die. This makes use of [Node.js][2] and
-[child_process.spawn][3] with helpful defaults.
+spawned processes also die. Works on macOS, Linux, and Windows. This makes use
+of [Node.js][2] and [child_process.spawn][3] with helpful defaults.
 
 ## Usage
 
